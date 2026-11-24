@@ -1,0 +1,2 @@
+luis ángel Alderete morales luis 241190079
+ INGENIERIA EN SISTEMAS COMPUTACIONELES
