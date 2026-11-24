@@ -11,3 +11,7 @@ clonar un repositorio
 git clone url_repositorio
 ```
 
+    -   cuando se termine de realizar lo que se este haciendo presionar ctrl + j (abre la terminal)
+    -   posterioremente se usa git add .
+    -   git commit -m "lo que se cambio"
+    -   git push (lo envia a git hub)
